@@ -1,4 +1,3 @@
-# PowerBi_dashbord_project
 Developed a project to analyze credit card customer behavior and transaction patterns.
 Used SQL to extract, clean, and aggregate data from a credit card transaction database.
 Created interactive Power BI dashboards to visualize key metrics, such as:
